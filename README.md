@@ -1,16 +1,13 @@
-## Hi there 👋
+## Me.
+Hi there,
+I am a French guy who codes stuff.
 
-<!--
-**SometimesInk/SometimesInk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## "Codes stuff" is imprecise
+I have some experience with C#, Java, and programming in general.
 
-Here are some ideas to get you started:
+## Facts?
+ - I like maths*
+*"Maths" here is very vague. We can definitely add physics in there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More facts?
+No thanks, get some maths.
