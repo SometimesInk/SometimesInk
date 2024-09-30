@@ -6,8 +6,8 @@ I am a French guy who codes stuff.
 I have some experience with C#, Java, and programming in general.
 
 ## Facts?
- - I like maths*
-*"Maths" here is very vague. We can definitely add physics in there.
+ - I'm a maths nerd,
+ - Loves auroræ (and supernovæ)
 
 ## More facts?
-No thanks, get some maths.
+No thanks.
