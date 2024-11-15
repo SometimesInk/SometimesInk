@@ -8,8 +8,9 @@ I [think I] know Java, currently learning C, experienced with programming in gen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sometimesink&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Facts?
- - I'm a maths nerd,
+ - Maths nerd
  - Loves auroræ (and supernovæ [definitly not because of that U+00E6 character])
+ - Apparently a masochist [because I code in Shell]
 
 ## More facts?
 No thanks.
