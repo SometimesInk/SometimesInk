@@ -1,6 +1,6 @@
 ## Me.
 Hai there!<br>
-I am a French guy who codes stuff.
+I'm a French guy who codes stuff
 
 ## "Codes stuff" is imprecise
 I [think I] know Java, currently learning C, experienced with programming in general.
