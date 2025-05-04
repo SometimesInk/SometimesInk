@@ -1,5 +1,5 @@
 ## Me.
-Hi there,
+Hai there!<br>
 I am a French guy who codes stuff.
 
 ## "Codes stuff" is imprecise
