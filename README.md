@@ -15,4 +15,4 @@ I [think I] know Java, currently learning C, experienced with programming in gen
 ## More facts?
 No thanks.
 
-Bye bye :D
+Bye bye ^^
